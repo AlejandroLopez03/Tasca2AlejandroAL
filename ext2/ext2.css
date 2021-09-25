@@ -1,4 +1,28 @@
 * {
-  padding: 20;
-  margin: 40;
+  padding: 0;
+  margin: 0;
 }
+
+
+body {
+  background: Salmon;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 150px;
+  padding: 0px;
+}
+
+.article {
+  height: 300px;
+  width: 900px;
+  padding: 40px;
+}
+
+p {
+  padding: 100;
+}
+
+
